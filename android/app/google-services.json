@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "96814630844",
+    "project_id": "practicaflutterfirebase-6888b",
+    "storage_bucket": "practicaflutterfirebase-6888b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96814630844:android:508ca939a6623facfdcdb9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_supabase_lectura_sencilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96814630844-degdqt7fu14fk5v1l4hbekr11sdp5lh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7QMpKTK5fjqQdhgtwgJrFwTY8ot7Hhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96814630844-degdqt7fu14fk5v1l4hbekr11sdp5lh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96814630844-g8eqsmus9v9mmvi84ek83gckvem9v5bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterSupabaseLecturaSencilla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
